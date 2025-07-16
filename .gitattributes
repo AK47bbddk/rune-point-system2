@@ -1,0 +1,2 @@
+# プロジェクトルートに .gitattributes を作成
+* text=auto eol=lf
